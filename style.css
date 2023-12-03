@@ -1,0 +1,107 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    /* padding: 0;
+    margin: 0; */
+    font-size: 15px;
+    color: #555;
+    line-height: 28px;
+}
+
+#header{
+    background-color: #333;
+    height:50px;
+    border-width: 0 0 5px 0;
+    border-color: #FD8A24;
+    border-style: solid;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight:700;
+    margin-top:0;
+    padding-top:8px;
+}
+
+#comprar{
+    margin:0;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    font-weight: bold;
+    font-size: 36px;
+    color: #111;
+}
+
+#conteiner{
+    max-width:700px;
+    margin: auto;
+    padding:15px 30px;
+}
+
+.autor{
+    font-size: 14px;
+    font-weight:bold;
+    /* margin-top: 20px; */
+    margin: 0;
+}
+
+
+
+#iconsocial{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icone{
+    padding-right: 10px;
+    width:20px;
+}
+
+#conteudo{
+    max-width:500px;
+    margin: auto;
+    padding:15px 30px;
+}
+
+.textocolor{
+    color: #FD8A24;
+    font-weight: bold;
+}
+
+.imgcomlegenda{
+    font-size: 12px;
+    padding: 0;
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 500px;
+}
+
+img{
+    width: 500px;
+}
+
+.legenda{
+    margin-top: 10px;
+}
+
+a{
+    color: #FD8A24;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+#rodape{
+    background-color: #333;
+    height:50px;
+}
